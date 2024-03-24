@@ -11,7 +11,7 @@ public class RandomKickController: MonoBehavior {
     private float timer = 0f;
 
     public void Start() {
-        setRandomKcikInterval();
+        setRandomKickInterval();
     }
 
     public void Update() {
@@ -19,7 +19,7 @@ public class RandomKickController: MonoBehavior {
         if (timer >= GetRandomKickInterval())
         {
             KickBall();
-            SetRandomKickInterval();  // Set a new random kick interval
+            setRandomKickInterval();  // Set a new random kick interval
             timer = 0f;  // Reset the timer
         }
     }
@@ -29,7 +29,7 @@ public class RandomKickController: MonoBehavior {
         return Random.Range(minKickInterval, maxKickInterval);
     }
 
-    void SetRandomKickInterval() {
+    void setRandomKickInterval() {
         // Set a new random kick interval
         float randomInterval = GetRandomKickInterval();
         timer = -Random.Range(0f, randomInterval);  // Start timer with a negative value to avoid waiting for the first kick
