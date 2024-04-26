@@ -52,4 +52,4 @@ We welcome contributions from the community to help improve the VR Soccer Traini
 
 ## License
 
-[To be filled out later]
+This project is licensed under the [GNU Public License](LICENSE) - see the [LICENSE](LICENSE) file for details.
