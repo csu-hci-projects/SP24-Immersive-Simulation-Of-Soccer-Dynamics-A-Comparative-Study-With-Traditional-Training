@@ -19,9 +19,12 @@ The VR Soccer Training Project is a collaborative effort to create a VR-based so
 ## Features
 
 - Immersive VR environment with realistic graphics and physics
-- Interactive training scenarios, including ball kicking, goalkeeping, and more
+- Interactive training scenarios, including goalkeeping, and more
 - Randomized ball trajectories and velocities for dynamic training sessions
-- Customizable settings for player preferences and skill levels
+
+## Forms/Surveys
+* [Pre-Survey](https://forms.office.com/r/Cbb3DumYSh)
+* [Post-Survey]()
 
 ## Requirements
 
