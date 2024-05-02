@@ -13,11 +13,9 @@ Welcome to the VR Soccer Training Project repository! This project aims to revol
 - [License](#license)
 
 ## Overview
-
 The VR Soccer Training Project is a collaborative effort to create a VR-based soccer training platform. The project utilizes Unity, C# scripting, and Blender to develop realistic virtual environments and dynamic gameplay mechanics. By simulating various training scenarios, players can enhance their skills and performance on the soccer field.
 
 ## Features
-
 - Immersive VR environment with realistic graphics and physics
 - Interactive training scenarios, including goalkeeping, and more
 - Randomized ball trajectories and velocities for dynamic training sessions
@@ -36,13 +34,13 @@ The VR Soccer Training Project is a collaborative effort to create a VR-based so
 
 1. Clone the repository to your local machine.
 2. Open the project in Unity.
-3. Install any necessary dependencies or plugins.
-4. Connect your VR headset and controllers.
+3. Install any necessary dependencies or plugins (all should be in Unity already but just in case).
+4. Connect your VR headset to the system and controllers.
 5. Run the project in the Unity Editor or build it for your target platform.
+6. Once built open the app on a MetaQuest 2 VR Headset (Other HMDs may work but this was built with the Quest in mind)
+7. Disconnect the controllers and esnure hand tracking is enabled
 
 ## Usage
-
-[To be filled out later]
 
 ## Contributing
 
