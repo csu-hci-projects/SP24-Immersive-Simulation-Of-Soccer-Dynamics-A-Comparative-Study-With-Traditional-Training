@@ -11,8 +11,8 @@ realistic virtual environments and dynamic gameplay mechanics. By simulating var
 
 ## Videos
 
-* [Overview Video] ()
-* [Presentation] (https://youtu.be/bS2EJ3FuxW0)
+* [Overview Video]()
+* [Presentation](https://youtu.be/bS2EJ3FuxW0)
 * [Code Explanation](https://youtu.be/tWIzXl8WetY)
 
 ## Github
